@@ -1,3 +1,5 @@
+""" Hangman Game In Python"""
+
 import random
 
 #Make list of random words 
